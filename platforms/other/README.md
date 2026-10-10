@@ -2,32 +2,42 @@
   <a href="../../README.md"><img src="../../assets/casket-labs-logo.png" alt="Casket Labs" width="170"></a>
 </p>
 
-# Other Platforms — Releases
+# Other Systems — Projects
 
-Homebrew releases for additional retro systems that do not yet have their own category.
+Homebrew projects for other retro consoles and hardware. The target system should be clear from each project description.
 
-[← All platforms](../../README.md) · [How to add a release](../../RELEASE_TEMPLATE.md)
-
----
-
-## Completed releases
-
-*No releases have been manually listed for Other systems yet.*
-
-<!--
-When adding the first release, remove the italic "No releases" line above.
-Use this compact table, then optionally include expandable details underneath it:
-
-| Project | Version | Type | Developers | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| [Project Name](https://github.com/Casket-Labs/PROJECT) | v1.0.0 | Application | [Developer](https://github.com/USERNAME) | [Download](https://github.com/Casket-Labs/PROJECT/releases/tag/v1.0.0) · [Source](https://github.com/Casket-Labs/PROJECT) |
-
-Optional extra project details can use a GitHub-supported <details> section.
-See ../../RELEASE_TEMPLATE.md for the copy-and-paste version.
--->
+[← All systems](../../README.md) · [Add a project](../../RELEASE_TEMPLATE.md)
 
 ---
 
-> This is a curated list of **completed, publicly released** projects. Missing a Casket Labs release? Propose an addition by opening an issue or pull request.
+**Jump to:** [Games](#games) · [Game Ports](#game-ports) · [Applications](#applications) · [Tools and Utilities](#tools-and-utilities)
 
-[← Back to the Casket Labs directory](../../README.md)
+## Games
+
+Original homebrew games.
+
+*No projects listed yet.*
+
+## Game Ports
+
+Games brought to this system from another platform.
+
+*No projects listed yet.*
+
+## Applications
+
+Standalone applications and creative software.
+
+*No projects listed yet.*
+
+## Tools and Utilities
+
+Launchers, file managers, maintenance tools, and development utilities.
+
+*No projects listed yet.*
+
+---
+
+This is a curated list of **completed, publicly released** projects. Want to suggest a missing Casket Labs project? Open an issue or pull request.
+
+[← Back to all systems](../../README.md)

@@ -13,38 +13,46 @@
 <p align="center">
   <a href="https://github.com/Casket-Labs">Organization</a> ·
   <a href="https://github.com/Casket-Labs/.github">About Casket Labs</a> ·
-  <a href="RELEASE_TEMPLATE.md">Release template</a>
+  <a href="RELEASE_TEMPLATE.md">How to add a project</a>
 </p>
 
 ---
 
-## Browse by platform
+## Browse by system
 
-Select a console to explore completed games, applications, tools, and ports.
+Choose a console to browse its completed homebrew releases, organized by category.
 
-| Platform | Release directory |
+| System | Directory |
 | :--- | :--- |
-| **PlayStation 2 (PS2)** | [Browse PS2 releases →](platforms/ps2/README.md) |
-| **PlayStation (PS1)** | [Browse PS1 releases →](platforms/ps1/README.md) |
-| **Game Boy Advance (GBA)** | [Browse GBA releases →](platforms/gba/README.md) |
-| **Other systems** | [Browse other releases →](platforms/other/README.md) |
+| **PlayStation 2 (PS2)** | [Browse PS2 projects →](platforms/ps2/README.md) |
+| **PlayStation (PS1)** | [Browse PS1 projects →](platforms/ps1/README.md) |
+| **Game Boy Advance (GBA)** | [Browse GBA projects →](platforms/gba/README.md) |
+| **Other systems** | [Browse other projects →](platforms/other/README.md) |
 
-## About this catalog
+## Release categories
+
+Each system's directory uses the same categories:
+
+| Category | What you'll find |
+| :--- | :--- |
+| **Games** | Original homebrew games created for retro hardware. |
+| **Game Ports** | Existing games adapted to run on another system. |
+| **Applications** | Creative, media, productivity, and other standalone apps. |
+| **Tools and Utilities** | Launchers, file managers, system tools, and development utilities. |
+
+## About the directory
 
 Casket Labs is an independent homebrew development studio focused on the PlayStation 2, original PlayStation, Game Boy Advance, and other retro consoles.
 
-This repository is our **manually maintained index of completed, publicly available releases**. It is not a list of prototypes, works in progress, or every repository our members have contributed to.
+This repository is a **manually maintained catalog of completed, publicly available projects**—not a list of prototypes, planned work, or every project our members have worked on.
 
-- Entries are organized by **target platform**.
-- Each entry links to the project's **source/repository** and its **download or release page**, when available.
-- Releases are **added and updated manually**. There is no automatic GitHub import or pagination.
-- For installation instructions, compatibility details, and licenses, consult the linked project pages.
+Each listing stays simple: a **project name**, a **short description**, and relevant **download/source links**. Detailed documentation, installation instructions, and release history are kept on the linked project pages.
 
-## Maintaining the directory
+## Add or update a project
 
-To add a completed release, open the appropriate platform README and add an entry using [RELEASE_TEMPLATE.md](RELEASE_TEMPLATE.md). Keep the project table alphabetical by title, and point download links to an actual public release rather than an unreleased branch.
+Open the appropriate system page, find the relevant category, and add an entry using [RELEASE_TEMPLATE.md](RELEASE_TEMPLATE.md). Projects are listed alphabetically within each category.
 
-For a new console, create `platforms/<system>/README.md` based on an existing platform page and add its link to the table above.
+For a new system, copy an existing `platforms/<system>/README.md` and link it from the system table above.
 
 ---
 
