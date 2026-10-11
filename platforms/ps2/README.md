@@ -22,7 +22,13 @@ Original homebrew games.
 
 Games brought to this system from another platform.
 
-*No projects listed yet.*
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| [2004Scape](https://github.com/johnson-cooper/2004sp-ps2port) | Native PlayStation 2 port of classic RuneScape 2, featuring online multiplayer, controller support, and the original 2004 gameplay experience. | [Download](https://github.com/johnson-cooper/2004sp-ps2port/releases) · [Source](https://github.com/johnson-cooper/2004sp-ps2port/tree/ps2-hardware-integration) |
+| [Kingdom Hearts 358/2 Days](https://github.com/johnson-cooper/khdays-decomp) | PlayStation 2 port of the Nintendo DS action RPG, adapted for PS2 hardware using a decompiled codebase and assets extracted from an original game copy. | [Download](https://github.com/johnson-cooper/khdays-decomp/releases) · [Source](https://github.com/johnson-cooper/khdays-decomp/tree/ps2-port) |
+| [Nazi Zombies: Portable](https://github.com/johnson-cooper/vril-engine) | PlayStation 2 port of the fan-made Zombies survival game, powered by the Vril Engine and featuring classic wave-based gameplay. | [Download](https://github.com/johnson-cooper/vril-engine/releases) · [Source](https://github.com/johnson-cooper/vril-engine/tree/ps2-port) |
+| [Project GOAT](https://github.com/johnson-cooper/project-goat) | Yu-Gi-Oh! dueling simulator featuring the classic 2005 GOAT Format, adapted for PlayStation 2 with card battles and deck management. | [Download](https://github.com/johnson-cooper/project-goat/releases) · [Source](https://github.com/johnson-cooper/project-goat/tree/ps2-port) |
+| [Super Smash Bros. 64](https://github.com/johnson-cooper/ssb-decomp-re) | Native PlayStation 2 port of Nintendo's original Super Smash Bros., built from its decompiled Nintendo 64 codebase. | [Download](https://github.com/johnson-cooper/ssb-decomp-re/releases) · [Source](https://github.com/johnson-cooper/ssb-decomp-re/tree/fix/ps2-hardware-iop-boot) |
 
 ## Applications
 
@@ -31,6 +37,7 @@ Standalone applications and creative software.
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | [Simple Media System](https://github.com/NathanNeurotic/Simple-Media-System) | Modernized PlayStation 2 multimedia player with expanded storage and network playback support. | [Download](https://github.com/NathanNeurotic/Simple-Media-System/releases) · [Source](https://github.com/NathanNeurotic/Simple-Media-System) |
+| [PS2DAW](https://github.com/johnson-cooper/ps2-daw) | Native PlayStation 2 digital audio workstation featuring a piano roll, step sequencer, playlist, mixer, synthesizers, and audio effects for music production. | [Download](https://github.com/johnson-cooper/ps2-daw/releases) · [Source](https://github.com/johnson-cooper/ps2-daw) |
 
 ## Tools and Utilities
 
